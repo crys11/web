@@ -117,7 +117,7 @@ export default function Home() {
             <Container className="exjob">
                 <Row className="mb-5 mx-auto">
                     <Col xs={12}>
-                        <h1 className="mb-3 exjoTitle">Explore <span>jobs you`ll love</span></h1>
+                        <h1 className="mb-3 exjoTitle">Explore <span>jobs you'll love</span></h1>
                         <h2 className= "exjoSub">from companies hiring locally</h2>
                     </Col>
                 </Row>
